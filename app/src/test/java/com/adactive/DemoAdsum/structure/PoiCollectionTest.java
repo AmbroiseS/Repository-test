@@ -11,6 +11,6 @@ import org.junit.Test;
 public class PoiCollectionTest {
     @Test
     public void testString(){
-        Assert.assertEquals(StoreDescriptionDialog.ARG_LOGO_PATH,"logo_path");
+        Assert.assertEquals(StoreDescriptionDialog.ARG_LOGO_PATH,"logo_pato");
     }
 }
